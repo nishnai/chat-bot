@@ -5,3 +5,4 @@
 - Conducted extensive testing to identify and resolve bugs and issues, resulting in a robust and reliable chatbot.
 - Documented the codebase and provided detailed instructions for future maintenance and development.
 - Demonstrated a strong understanding of chatbot architecture, NLP techniques, and machine learning algorithms.
+- Credits: @louisteo9
